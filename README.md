@@ -1,0 +1,1 @@
+This is designed to be a weather station type application. It will be using a Raspberry Pi, and the Raspberry Pi to record weather data for my room. Data collected will be Temperature, Humidity and Pressure. It will use Flask and SQLAlchemy to store and display the data.
